@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "326829883139",
+    "project_id": "dry-cleaners-firebase",
+    "storage_bucket": "dry-cleaners-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:326829883139:android:304d9898d4b8ef0bf4f336",
+        "android_client_info": {
+          "package_name": "com.drycleaners.shopping"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "326829883139-en8hrnuahueiht5au4gii78r7iqb7fab.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNfQND-iDyGwZuULPIHDK9xf5vx9H1G6I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "326829883139-en8hrnuahueiht5au4gii78r7iqb7fab.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
